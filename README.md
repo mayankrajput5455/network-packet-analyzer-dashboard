@@ -30,7 +30,7 @@ A real-time network monitoring and security analytics dashboard built using Fast
 
 ### Security Alerts
 
-![Security Alerts](screenshots/sec-alerts.png)
+![Security Alerts](screenshots/sec-alert.png)
 
 ### Live Packet Monitoring
 
