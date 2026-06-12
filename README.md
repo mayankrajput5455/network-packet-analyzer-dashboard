@@ -101,7 +101,7 @@ frontend/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/network-packet-analyzer-dashboard.git
+git clone https://github.com/mayankrajput5455/network-packet-analyzer-dashboard.git
 cd network-packet-analyzer-dashboard
 ```
 
